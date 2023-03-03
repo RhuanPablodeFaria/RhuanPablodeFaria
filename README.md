@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/rhuan-pablo-de-faria-200aa7234)
 
-![RhuanPablodeFaria GitHub stats](https://github-readme-stats.vercel.app/api?username=RhuanPablodeFaria&show_icons=true&theme=dracule)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanPablodeFaria&hid_progress=true)](https://github.com/RhuanPablodeFaria/github-readme-stats)
 
 
