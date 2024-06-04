@@ -13,7 +13,7 @@
 ## Tecnologias que já estudei
 
 <div style="display: inline_block"><br/>
-  <img align"center" alt="Java" src="https://media.dev.to/cdn-cgi/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F19%2F57803385-45802780-7726-11e9-84d9-2e4c4ca8bcdb.png" />
+  <img align"center" alt="Java" src="https://media.dev.to/cdn-cgi/image/width=40,height=30,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F19%2F57803385-45802780-7726-11e9-84d9-2e4c4ca8bcdb.png" />
   <img align"center" alt="SpringBoot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align"center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align"center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
