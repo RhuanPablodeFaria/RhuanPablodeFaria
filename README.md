@@ -1,11 +1,14 @@
 ### Olá! Eu sou o Rhuan Pablo 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/rhuan-pablo-de-faria-200aa7234)
+<div style="display: inline_block"><br>
+ <a href="https://www.instagram.com/rhuan_pablo_faria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/rhuan-pablo-de-faria-200aa7234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+##
 
 ![Rhuan GitHub stats](https://github-readme-stats.vercel.app/api?username=RhuanPablodeFaria&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanPablodeFaria&hid_progress=true)](https://github.com/RhuanPablodeFaria/github-readme-stats)
-
 
 ## Tecnologias que já estudei
 
