@@ -106,5 +106,3 @@ Tecnologias que já estudei
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
   />
-
-Apaixonado por tecnologias e sonho em me tornar um excelente programador.
