@@ -110,6 +110,7 @@ Tecnologias que já estudei
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
   />
   <img
+    title="PostgreSQL"
     align="center"
     alt="PostgreSQL"
     height="30"
