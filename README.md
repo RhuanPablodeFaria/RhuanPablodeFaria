@@ -35,6 +35,7 @@ Tecnologias que já estudei
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
   />
   <img
+    title="CSS"
     align="center"
     alt="CSS"
     height="30"
@@ -42,6 +43,7 @@ Tecnologias que já estudei
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
   />
   <img
+    title="VueJS"
     align="center"
     alt="VueJS"
     height="30"
@@ -49,6 +51,7 @@ Tecnologias que já estudei
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
   />
   <img
+    title="JavaScript"
     align="center"
     alt="JavaScript"
     height="30"
@@ -56,6 +59,7 @@ Tecnologias que já estudei
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
   />
   <img
+    title="TypeScript"
     align="center"
     alt="TypeScript"
     height="30"
@@ -66,6 +70,7 @@ Tecnologias que já estudei
   Back-end
   
   <img
+    title="NodeJS"
     align="center"
     alt="NodeJS"
     height="30"
@@ -73,6 +78,7 @@ Tecnologias que já estudei
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
   />
   <img
+    title="Java"
     align="center"
     alt="Java"
     height="30"
@@ -80,6 +86,7 @@ Tecnologias que já estudei
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
   />
   <img
+    title="SpringBoot"
     align="center"
     alt="SpringBoot"
     height="30"
@@ -87,6 +94,7 @@ Tecnologias que já estudei
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
   />
   <img
+    title="MySql"
     align="center"
     alt="MySQL"
     height="30"
@@ -94,6 +102,7 @@ Tecnologias que já estudei
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
   />
   <img
+    title="MongoDB"
     align="center"
     alt="MongoDB"
     height="30"
