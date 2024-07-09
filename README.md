@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Rhuan Pablo 👋
 
+Sou Rhuan e almejo ser um desenvolvedor Full-Stack. Sou entusiasta da programação, com o objetivo de criar sites e aplicativos excepcionais que, além de resolverem problemas do dia a dia, apresentem um Front-end esteticamente agradável em qualquer dispositivo e um Back-end robusto, com funcionalidades precisas e aderentes aos princípios do Clean Code.
+
 <!-- <div style="display: inline_block"><br>
  <a href="https://www.instagram.com/rhuan_pablo_faria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/rhuan-pablo-de-faria-200aa7234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
