@@ -22,7 +22,6 @@
 
 Tecnologias que já estudei
 
-<div style="display: inline_block">
   Front-end
   <img
     align="center"
@@ -104,7 +103,5 @@ Tecnologias que já estudei
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
   />
-</div>
-<br />
 
 Apaixonado por tecnologias e sonho em me tornar um excelente programador.
