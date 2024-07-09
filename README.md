@@ -23,6 +23,7 @@
 Tecnologias que já estudei
 
   Front-end
+  
   <img
     align="center"
     alt="HTML"
