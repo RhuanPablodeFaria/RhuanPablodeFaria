@@ -27,6 +27,7 @@ Tecnologias que já estudei
   Front-end
   
   <img
+    title="HTML5"
     align="center"
     alt="HTML"
     height="30"
