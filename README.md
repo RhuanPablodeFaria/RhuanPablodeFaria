@@ -23,7 +23,7 @@
 Tecnologias que já estudei
 
 <div style="display: inline_block">
-  <h2>Front-end</h2>
+  Front-end
   <img
     align="center"
     alt="HTML"
@@ -60,7 +60,7 @@ Tecnologias que já estudei
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
   />
 
-  <h2>Back-end</h2>
+  Back-end
   
   <img
     align="center"
