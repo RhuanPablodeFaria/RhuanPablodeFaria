@@ -23,7 +23,6 @@
 Tecnologias que já estudei
 
 <div style="display: inline_block">
-  <br />
   <h2>Front-end</h2>
   <img
     align="center"
@@ -46,8 +45,6 @@ Tecnologias que já estudei
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
   />
-
-  <h2>Back-end</h2>
   <img
     align="center"
     alt="JavaScript"
@@ -62,6 +59,9 @@ Tecnologias que já estudei
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
   />
+
+  <h2>Back-end</h2>
+  
   <img
     align="center"
     alt="NodeJS"
