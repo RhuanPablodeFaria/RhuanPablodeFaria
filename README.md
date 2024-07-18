@@ -43,6 +43,14 @@ Tecnologias que já estudei
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
   />
   <img
+    title="SASS"
+    align="center"
+    alt="SASS"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
+  />
+  <img
     title="VueJS"
     align="center"
     alt="VueJS"
@@ -92,6 +100,22 @@ Tecnologias que já estudei
     height="30"
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
+  />
+  <img
+    title="C#"
+    align="center"
+    alt="C#"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+  />
+  <img
+    title=".NET"
+    align="center"
+    alt=".NET"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg"
   />
   <img
     title="MySql"
