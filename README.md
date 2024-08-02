@@ -128,7 +128,6 @@ Tecnologias que já estudei
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
   />
-
  <img
     title="MongoDB"
     align="center"
@@ -137,7 +136,6 @@ Tecnologias que já estudei
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
   />
-  
   <img
     title="PostgreSQL"
     align="center"
@@ -146,7 +144,6 @@ Tecnologias que já estudei
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
   />
-
  <img
     title="SQL Server"
     align="center"
