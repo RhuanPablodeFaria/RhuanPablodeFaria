@@ -18,7 +18,6 @@ Sou Rhuan e almejo ser um desenvolvedor Full-Stack. Sou entusiasta da programaç
     width="335"
     height="250"
     align="right"
-    margin="35px 0"
     alt="Hello, there!"
   />
 </a>
