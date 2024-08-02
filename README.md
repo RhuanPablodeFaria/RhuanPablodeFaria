@@ -16,6 +16,16 @@ Sou Rhuan e almejo ser um desenvolvedor Full-Stack. Sou entusiasta da programaç
 Tecnologias que já estudei
 
   Front-end
+  <a href="#">
+  <img
+    src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108"
+    title="hello"
+    width="335"
+    height="250"
+    align="right"
+    alt="Hello, there!"
+  />
+</a>
   
   <img
     title="HTML5"
@@ -49,16 +59,6 @@ Tecnologias que já estudei
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
   />
-  <a href="#">
-  <img
-    src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108"
-    title="hello"
-    width="335"
-    height="250"
-    align="right"
-    alt="Hello, there!"
-  />
-</a>
   <img
     title="JavaScript"
     align="center"
