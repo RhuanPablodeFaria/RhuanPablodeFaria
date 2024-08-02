@@ -117,6 +117,9 @@ Tecnologias que já estudei
     width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg"
   />
+
+  Banco de dados
+
   <img
     title="MySql"
     align="center"
@@ -125,7 +128,8 @@ Tecnologias que já estudei
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
   />
-  <img
+
+ <img
     title="MongoDB"
     align="center"
     alt="MongoDB"
@@ -133,6 +137,7 @@ Tecnologias que já estudei
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
   />
+  
   <img
     title="PostgreSQL"
     align="center"
@@ -141,3 +146,13 @@ Tecnologias que já estudei
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
   />
+
+ <img
+    title="SQL Server"
+    align="center"
+    alt="SQL Server"
+    height="30"
+    width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+  />
+ 
